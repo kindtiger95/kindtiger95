@@ -1,4 +1,4 @@
-### Jang In Beom 👋
+### Jang In Beom 😄
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjanginbeom)](https://solved.ac/jjanginbeom/)
 <!--
