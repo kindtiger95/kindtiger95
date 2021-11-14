@@ -1,4 +1,4 @@
-## Jang In Beom 😄
+## Jang In Beom 👍
 
 ### [✏️My Blog](https://velog.io/@jjanginbeom)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjanginbeom)](https://solved.ac/jjanginbeom/)
