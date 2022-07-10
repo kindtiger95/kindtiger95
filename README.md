@@ -1,6 +1,6 @@
-## Jang In Beom
+## Inbeom jang
 
-### [✏️My Blog](https://kindtiger95.tistory.com)
+### [Blog link](https://kindtiger95.tistory.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjanginbeom)](https://solved.ac/jjanginbeom/)
 <!--
 **jjangin/jjangin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
