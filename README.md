@@ -2,17 +2,17 @@
 
 ### [Blog link](https://velog.io/@kindtiger95)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjanginbeom)](https://solved.ac/jjanginbeom/)
-<!--
-**jjangin/jjangin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+  <a href="https://github.com/asdf2kr/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=kindtiger95&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/asdf2kr/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindtiger95&layout=compact&theme=dark" 
+  </a>
+</p>
