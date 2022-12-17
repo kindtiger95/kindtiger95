@@ -7,4 +7,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjanginbeom)](https://solved.ac/jjanginbeom/)
 
 ## Blog
-**[Link](https://kindtiger95.tistory.com)**
+<a href="https://kindtiger95.tistory.com" target="_blank">[Link]</a>
